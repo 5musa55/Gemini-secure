@@ -63,3 +63,4 @@ export async function getCurrentUserSession(): Promise<CurrentUserSession | null
     isAdmin,
   };
 }
+

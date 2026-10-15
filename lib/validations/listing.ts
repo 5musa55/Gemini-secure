@@ -41,3 +41,4 @@ export const listingSchema = z.object({
 });
 
 export type ListingInput = z.infer<typeof listingSchema>;
+

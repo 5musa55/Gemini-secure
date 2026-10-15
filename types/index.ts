@@ -55,3 +55,4 @@ export interface CurrentUserSession {
   profile: Profile | null;
   isAdmin: boolean;
 }
+

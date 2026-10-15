@@ -225,3 +225,4 @@ export default async function ListingDetailPage({ params }: ListingDetailPagePro
     </div>
   );
 }
+

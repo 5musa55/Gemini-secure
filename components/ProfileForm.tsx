@@ -190,3 +190,4 @@ export function ProfileForm({ profile, email, isAdmin }: ProfileFormProps) {
     </form>
   );
 }
+

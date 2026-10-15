@@ -240,3 +240,4 @@ CREATE POLICY "Vlastník nebo admin může smazat obrázek"
 -- INSERT INTO public.user_roles (user_id, role)
 -- VALUES ('<ID_UZIVATELE_Z_AUTH_USERS>', 'admin')
 -- ON CONFLICT (user_id, role) DO NOTHING;
+
